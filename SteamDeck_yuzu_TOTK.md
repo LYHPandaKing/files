@@ -1,5 +1,5 @@
 Steam Deck yuzu TOTK<br>
-20230624 update<br>
+20230625 update<br>
 
 Mods<br>
 - ToTK Yuzu Steam Deck Almost Stable 30fps Setup + New Settings [Steam OS 3.4.8] : r/128bitbay<br>
