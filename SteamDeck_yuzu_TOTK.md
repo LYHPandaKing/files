@@ -4,6 +4,8 @@ Steam Deck yuzu TOTK<br>
 Mods<br>
 - ToTK Yuzu Steam Deck Almost Stable 30fps Setup + New Settings [Steam OS 3.4.8] : r/128bitbay<br>
 https://www.reddit.com/r/128bitbay/comments/14fjbje/totk_yuzu_steam_deck_almost_stable_30fps_setup/
+- HolographicWings/TOTK-Mods-collection: Mod repo for TOTK on Yuzu emulator.<br>
+https://github.com/HolographicWings/TOTK-Mods-collection
 
 Download<br>
 https://github.com/LYHPandaKing/files/releases/tag/totk_mods
