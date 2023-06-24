@@ -10,12 +10,12 @@ https://github.com/LYHPandaKing/files/releases/tag/totk_mods
 <hr>
 
 yuzu version<br>
-1445: https://github.com/yuzu-emu/yuzu-mainline/releases/tag/mainline-0-1445
+1445: https://github.com/yuzu-emu/yuzu-mainline/releases/tag/mainline-0-1445<br>
 OR<br>
 1455: https://github.com/yuzu-emu/yuzu-mainline/releases/tag/mainline-0-1455
 
 Enabled Mods
-![image](https://user-images.githubusercontent.com/35364533/248467157-03f37990-6576-4dc8-8d1b-961f52f70869.png)
+![image](https://github.com/LYHPandaKing/files/assets/35364533/90232825-7d25-4f03-8298-458b3a588ed3)
 
 General
 ![image](https://user-images.githubusercontent.com/35364533/248468867-c5446608-d678-4f8d-843c-0c5d1f29938d.png)
