@@ -15,6 +15,23 @@ yuzu version<br>
 Latest<br>
 
 
+Enabled Mods
+![image](https://github.com/qnblackcat/uYouPlus/assets/35364533/dc36b167-e69e-4d3e-8dca-abb524f4e342)
+
+General
+![image](https://github.com/qnblackcat/uYouPlus/assets/35364533/7d35415a-d991-4fa9-9339-51d659580457)
+
+CPU
+![image](https://github.com/qnblackcat/uYouPlus/assets/35364533/cf726421-0eef-405b-9222-d3f016785f20)
+
+Graphics > Graphics
+![image](https://github.com/qnblackcat/uYouPlus/assets/35364533/f9dc45a5-2373-44b0-b04d-3a1f488cc8e9)
+
+Graphics > Advanced
+![image](https://github.com/qnblackcat/uYouPlus/assets/35364533/d384cf4d-c992-43f3-b401-e7d622b09823)
+
+Steam Deck Setting
+![20230627120026_1](https://github.com/qnblackcat/uYouPlus/assets/35364533/3839d311-404a-4071-abb8-2bae0cb301aa)
 
 
 <details>
