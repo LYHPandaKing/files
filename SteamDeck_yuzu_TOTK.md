@@ -1,5 +1,5 @@
 Steam Deck yuzu TOTK<br>
-20230625 update<br>
+20230627 update<br>
 
 Mods<br>
 - ToTK Yuzu Steam Deck Almost Stable 30fps Setup + New Settings [Steam OS 3.4.8] : r/128bitbay<br>
@@ -10,6 +10,15 @@ https://github.com/HolographicWings/TOTK-Mods-collection
 Download<br>
 https://github.com/LYHPandaKing/files/releases/tag/totk_mods
 <hr>
+
+yuzu version<br>
+Latest<br>
+
+
+
+
+<details>
+  <summary>Old method</summary>
 
 yuzu version<br>
 1445: https://github.com/yuzu-emu/yuzu-mainline/releases/tag/mainline-0-1445<br>
@@ -30,3 +39,5 @@ Graphics > Graphics
 
 Graphics > Advanced
 ![image](https://user-images.githubusercontent.com/35364533/248468988-d817db26-82e9-4e89-a715-4457cc1d742e.png)
+
+</details>
