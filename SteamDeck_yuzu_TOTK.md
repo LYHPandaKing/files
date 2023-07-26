@@ -1,7 +1,9 @@
 Steam Deck yuzu TOTK<br>
-20230627 update<br>
+20230726 update<br>
 
 Mods<br>
+- (release) TotK Dynamic FPS v1.5.4 (support for v1.2.0 game update, optional FPS toggles) 
+https://www.reddit.com/user/ChucksFeedAndSeed/comments/14t5lk1/release_totk_dynamic_fps_v154_support_for_v120/
 - ToTK Yuzu Steam Deck Almost Stable 30fps Setup + New Settings [Steam OS 3.4.8] : r/128bitbay<br>
 https://www.reddit.com/r/128bitbay/comments/14fjbje/totk_yuzu_steam_deck_almost_stable_30fps_setup/
 - HolographicWings/TOTK-Mods-collection: Mod repo for TOTK on Yuzu emulator.<br>
@@ -12,11 +14,10 @@ https://github.com/LYHPandaKing/files/releases/tag/totk_mods
 <hr>
 
 yuzu version<br>
-Latest<br>
-
+Latest<br
 
 Enabled Mods
-![image](https://github.com/qnblackcat/uYouPlus/assets/35364533/dc36b167-e69e-4d3e-8dca-abb524f4e342)
+![image](https://github.com/LYHPandaKing/files/assets/35364533/a90422ed-08e3-4ef6-bfc1-c29f86ce539b)
 
 General
 ![image](https://github.com/qnblackcat/uYouPlus/assets/35364533/7d35415a-d991-4fa9-9339-51d659580457)
