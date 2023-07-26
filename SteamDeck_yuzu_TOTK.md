@@ -14,7 +14,7 @@ https://github.com/LYHPandaKing/files/releases/tag/totk_mods
 <hr>
 
 yuzu version<br>
-Latest<br
+Latest<br>
 
 Enabled Mods
 ![image](https://github.com/LYHPandaKing/files/assets/35364533/a90422ed-08e3-4ef6-bfc1-c29f86ce539b)
