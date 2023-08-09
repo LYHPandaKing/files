@@ -31,3 +31,18 @@ Uninstall<br>
 ```
 $HOME/sdgyrodsu/uninstall.sh
 ```
+
+#### FTP<br>
+
+Enable and Start<br>
+```
+sudo systemctl enable sshd
+```
+```
+sudo systemctl start sshd
+```
+
+Username: deck Port:22<br>
+
+#### NonSteamLaunchers
+https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck<br>
