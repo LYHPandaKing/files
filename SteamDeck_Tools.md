@@ -32,7 +32,7 @@ Uninstall<br>
 $HOME/sdgyrodsu/uninstall.sh
 ```
 
-#### FTP<br>
+#### SFTP<br>
 
 Enable and Start<br>
 ```
