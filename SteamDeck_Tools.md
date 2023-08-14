@@ -46,3 +46,15 @@ Username: deck Port:22<br>
 
 #### NonSteamLaunchers
 https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck<br>
+
+#### rclone<br>
+https://github.com/rclone/rclone<br>
+
+Install<br>
+```
+sudo -v ; curl https://rclone.org/install.sh | sudo bash
+```
+Update<br>
+```
+rclone selfupdate
+```
